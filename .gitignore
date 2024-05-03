@@ -149,3 +149,6 @@ terraform_secrets.tfvars
 
 # Infracost
 *.infracost
+
+# Node modules
+node_modules/
